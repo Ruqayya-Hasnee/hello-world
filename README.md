@@ -1,4 +1,4 @@
 # hello-world
-This is my first Git Repository.
+This is my hello world Repository.
 <br>
 Author - Ruqayya Hasni
